@@ -1,0 +1,58 @@
+{
+  "student_id": "AMB-2024-1142",
+  "name": "Priya Sharma",
+  "education": [
+    {
+      "degree": "M.Tech in Computer Science",
+      "institution": "Indian Institute of Technology Bombay",
+      "year": 2023,
+      "gpa": "9.2/10",
+      "thesis": "Transformer-based models for clinical named entity recognition in low-resource settings",
+      "field": "Natural Language Processing"
+    },
+    {
+      "degree": "B.Tech in Computer Engineering",
+      "institution": "BITS Pilani",
+      "year": 2021,
+      "gpa": "8.8/10",
+      "field": "Computer Engineering"
+    }
+  ],
+  "skills": [
+    "Python", "PyTorch", "TensorFlow", "Hugging Face Transformers",
+    "spaCy", "BERT", "GPT fine-tuning", "scikit-learn",
+    "SQL", "MongoDB", "Docker", "Git", "Linux",
+    "biomedical NLP", "clinical text mining"
+  ],
+  "projects": [
+    {
+      "title": "MedNER: Clinical NER on MIMIC-III",
+      "description": "Fine-tuned BioBERT for named entity recognition on clinical notes, achieving 89.3 F1 on i2b2 benchmark",
+      "technologies": ["PyTorch", "Hugging Face", "BioBERT"]
+    },
+    {
+      "title": "Low-resource cross-lingual transfer for biomedical texts",
+      "description": "Investigated zero-shot cross-lingual transfer for Hindi medical texts using multilingual BERT",
+      "technologies": ["mBERT", "Python", "fastText"]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Improving Clinical NER in Low-Resource Settings via Cross-Lingual Transfer",
+      "venue": "ACL BioNLP Workshop",
+      "year": 2023,
+      "url": "https://example.com/paper1"
+    }
+  ],
+  "research_interests": [
+    "biomedical natural language processing",
+    "clinical information extraction",
+    "large language models for healthcare",
+    "low-resource NLP",
+    "electronic health record mining"
+  ],
+  "target_countries": ["United States", "Canada", "United Kingdom", "Australia"],
+  "target_intake": "Fall 2025",
+  "intro_call_summary": "Priya is a strong NLP engineer with clear focus on biomedical/clinical applications. She wants a research-focused PhD, ideally in a lab that does both foundational NLP research and clinical application. She's particularly interested in LLMs for clinical decision support, de-identification, and patient phenotyping. She is open to CS or Biomedical Informatics departments.",
+  "raw_resume": "M.Tech thesis on transformer-based clinical NER. Published at ACL BioNLP 2023. Interned at Tata Consultancy Services AI lab. GATE score 98 percentile. Strong publication record for a Masters student. Looking for funded PhD positions starting Fall 2025."
+}

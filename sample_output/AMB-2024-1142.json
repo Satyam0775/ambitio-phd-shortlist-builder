@@ -1,0 +1,1079 @@
+{
+  "student_id": "AMB-2024-1142",
+  "generated_at": "2026-06-11T07:59:35.714446",
+  "total_candidates_evaluated": 1877,
+  "recommendations": [
+    {
+      "supervisor_id": "https://openalex.org/A5039309602",
+      "name": "Gloria Lipori",
+      "institution": "University of Florida",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "A large language model for electronic health records",
+            "year": 2022,
+            "url": "https://doi.org/10.1038/s41746-022-00742-2",
+            "venue": "npj Digital Medicine",
+            "citation_count": 816
+          },
+          {
+            "title": "A study of generative large language model for medical research and healthcare",
+            "year": 2023,
+            "url": "https://doi.org/10.1038/s41746-023-00958-w",
+            "venue": "npj Digital Medicine",
+            "citation_count": 364
+          },
+          {
+            "title": "Assessing the practice of data quality evaluation in a national clinical data research network through a systematic scoping review in the era of real-world data",
+            "year": 2020,
+            "url": "https://doi.org/10.1093/jamia/ocaa245",
+            "venue": "Journal of the American Medical Informatics Association",
+            "citation_count": 92
+          },
+          {
+            "title": "Opportunity for Genotype‐Guided Prescribing Among Adult Patients in 11 US Health Systems",
+            "year": 2021,
+            "url": "https://doi.org/10.1002/cpt.2161",
+            "venue": "Clinical Pharmacology & Therapeutics",
+            "citation_count": 60
+          },
+          {
+            "title": "Estimation of prevalence of autoimmune diseases in the United States using electronic health record data",
+            "year": 2024,
+            "url": "https://doi.org/10.1172/jci178722",
+            "venue": "Journal of Clinical Investigation",
+            "citation_count": 53
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Gloria Lipori's work at University of Florida aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"GatorTron: A Large Clinical Language Model to Unlock Patient Information from Unstructured Electronic Health Records\" (2022) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.6503,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2025,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0001-5616-2701"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5060928641",
+      "name": "Anuj Pareek",
+      "institution": "Intel (United States)",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Health records",
+        "Systematic review",
+        "Electronic health record",
+        "Deep learning",
+        "Medical record",
+        "Medical physics",
+        "Medicine",
+        "MEDLINE"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Adapted large language models can outperform medical experts in clinical text summarization",
+            "year": 2024,
+            "url": "https://doi.org/10.1038/s41591-024-02855-5",
+            "venue": "Nature Medicine",
+            "citation_count": 646
+          },
+          {
+            "title": "Self-supervised learning for medical image classification: a systematic review and implementation guidelines",
+            "year": 2023,
+            "url": "https://doi.org/10.1038/s41746-023-00811-0",
+            "venue": "npj Digital Medicine",
+            "citation_count": 407
+          },
+          {
+            "title": "Benchmarking saliency methods for chest X-ray interpretation",
+            "year": 2022,
+            "url": "https://doi.org/10.1038/s42256-022-00536-x",
+            "venue": "Nature Machine Intelligence",
+            "citation_count": 212
+          },
+          {
+            "title": "Clinical Text Summarization: Adapting Large Language Models Can Outperform Human Experts",
+            "year": 2023,
+            "url": "https://doi.org/10.21203/rs.3.rs-3483777/v1",
+            "venue": "Research Square",
+            "citation_count": 93
+          },
+          {
+            "title": "Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization",
+            "year": 2023,
+            "url": "http://arxiv.org/abs/2309.07430",
+            "venue": "arXiv (Cornell University)",
+            "citation_count": 35
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Anuj Pareek's work at Intel (United States) aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records. Their research focuses on Health records, Systematic review, Electronic health record. Recent publications such as \"Adapted large language models can outperform medical experts in clinical text summarization\" (2024) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.618,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 11,
+      "total_citations": 1436,
+      "most_recent_paper_year": 2025,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-1526-3685"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5045150730",
+      "name": "Tanja Magoč",
+      "institution": "University of Florida",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "A large language model for electronic health records",
+            "year": 2022,
+            "url": "https://doi.org/10.1038/s41746-022-00742-2",
+            "venue": "npj Digital Medicine",
+            "citation_count": 816
+          },
+          {
+            "title": "A study of generative large language model for medical research and healthcare",
+            "year": 2023,
+            "url": "https://doi.org/10.1038/s41746-023-00958-w",
+            "venue": "npj Digital Medicine",
+            "citation_count": 364
+          },
+          {
+            "title": "Evaluation of federated learning variations for COVID-19 diagnosis using chest radiographs from 42 US and European hospitals",
+            "year": 2022,
+            "url": "https://doi.org/10.1093/jamia/ocac188",
+            "venue": "Journal of the American Medical Informatics Association",
+            "citation_count": 34
+          },
+          {
+            "title": "Heterogeneous treatment effects of metformin on risk of dementia in patients with type 2 diabetes: A longitudinal observational study",
+            "year": 2023,
+            "url": "https://doi.org/10.1002/alz.13480",
+            "venue": "Alzheimer s & Dementia",
+            "citation_count": 21
+          },
+          {
+            "title": "A Study of Generative Large Language Model for Medical Research and Healthcare",
+            "year": 2023,
+            "url": "http://arxiv.org/abs/2305.13523",
+            "venue": "arXiv (Cornell University)",
+            "citation_count": 16
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Tanja Magoč's work at University of Florida aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"Clinical Prediction Models for Hospital-Induced Delirium Using Structured and Unstructured Electronic Health Record Data: Protocol for a Development and Validation Study\" (2023) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.6115,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2025,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0001-8213-2266"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5004483523",
+      "name": "Aokun Chen",
+      "institution": "University of Florida Health",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Medical foundation large language models for comprehensive text analysis and beyond",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41746-025-01533-1",
+            "venue": "npj Digital Medicine",
+            "citation_count": 54
+          },
+          {
+            "title": "Me-LLaMA: Foundation Large Language Models for Medical Applications",
+            "year": 2024,
+            "url": "https://doi.org/10.21203/rs.3.rs-4240043/v1",
+            "venue": "Research Square",
+            "citation_count": 49
+          },
+          {
+            "title": "A Brief Review on Benchmarking for Large Language Models Evaluation in Healthcare",
+            "year": 2025,
+            "url": "https://doi.org/10.1002/widm.70010",
+            "venue": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+            "citation_count": 11
+          },
+          {
+            "title": "Extracting Pulmonary Nodules and Nodule Characteristics from Radiology Reports of Lung Cancer Screening Patients Using Transformer Models",
+            "year": 2024,
+            "url": "https://doi.org/10.1007/s41666-024-00166-5",
+            "venue": "Journal of Healthcare Informatics Research",
+            "citation_count": 10
+          },
+          {
+            "title": "Enhancing Patient-Trial Matching With Large Language Models: A Scoping Review of Emerging Applications and Approaches",
+            "year": 2025,
+            "url": "https://doi.org/10.1200/cci-25-00071",
+            "venue": "JCO Clinical Cancer Informatics",
+            "citation_count": 4
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Aokun Chen's work at University of Florida Health aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"Clinical Trial Eligibility Criteria Decomposition and Parsing with Large Language Models\" (2025) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.6096,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-5100-3821"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5076610873",
+      "name": "William R. Hogan",
+      "institution": "University of Florida",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Identifying social determinants of health from clinical narratives: A study of performance, documentation ratio, and potential bias",
+            "year": 2024,
+            "url": "https://doi.org/10.1016/j.jbi.2024.104642",
+            "venue": "Journal of Biomedical Informatics",
+            "citation_count": 28
+          },
+          {
+            "title": "Economics and Equity of Large Language Models: Health Care Perspective",
+            "year": 2024,
+            "url": "https://doi.org/10.2196/64226",
+            "venue": "Journal of Medical Internet Research",
+            "citation_count": 26
+          },
+          {
+            "title": "Community-engaged artificial intelligence research: A scoping review",
+            "year": 2024,
+            "url": "https://doi.org/10.1371/journal.pdig.0000561",
+            "venue": "PLOS Digital Health",
+            "citation_count": 18
+          },
+          {
+            "title": "The BSSO Foundry: A community of practice for ontologies in the behavioural and social sciences",
+            "year": 2024,
+            "url": "https://doi.org/10.12688/wellcomeopenres.23230.1",
+            "venue": "Wellcome Open Research",
+            "citation_count": 13
+          },
+          {
+            "title": "The Human Behaviour-Change Project Phase 2: Advancing behavioural and social sciences through ontology tools",
+            "year": 2024,
+            "url": "https://doi.org/10.12688/wellcomeopenres.23520.1",
+            "venue": "Wellcome Open Research",
+            "citation_count": 11
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. William R. Hogan's work at University of Florida aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"Developing an automated algorithm for identification of children and adolescents with diabetes using electronic health records from the <scp>OneFlorida</scp> + clinical research network\" (2024) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.6055,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2025,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-9881-1017"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5017766297",
+      "name": "Christopher A. Harle",
+      "institution": "University of Florida",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Using human factors methods to mitigate bias in artificial intelligence-based clinical decision support",
+            "year": 2024,
+            "url": "https://doi.org/10.1093/jamia/ocae291",
+            "venue": "Journal of the American Medical Informatics Association",
+            "citation_count": 7
+          },
+          {
+            "title": "Use of Hallway Beds, Radiology Studies, and Patients in Pain on Arrival to the Emergency Department Are Associated With Patient Experience",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.annemergmed.2024.11.020",
+            "venue": "Annals of Emergency Medicine",
+            "citation_count": 3
+          },
+          {
+            "title": "Development of a health-related social need screener for adults soon to be, and recently released, from incarceration",
+            "year": 2025,
+            "url": "https://doi.org/10.1186/s40352-025-00364-2",
+            "venue": "Health & Justice",
+            "citation_count": 2
+          },
+          {
+            "title": "Performance of 4 Methods to Assess Health-Related Social Needs",
+            "year": 2025,
+            "url": "https://doi.org/10.1001/jamanetworkopen.2025.27426",
+            "venue": "JAMA Network Open",
+            "citation_count": 2
+          },
+          {
+            "title": "Primary Care Clinician Perspectives on Older Adult Chronic Pain Management and Clinical Decision Support: Qualitative Study",
+            "year": 2025,
+            "url": "https://doi.org/10.2196/74381",
+            "venue": "JMIR Formative Research",
+            "citation_count": 2
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Christopher A. Harle's work at University of Florida aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"Protocol for a Single-Arm Pilot Clinical Trial: Developing and Evaluating a Machine Learning Opioid Prediction &amp; Risk-Stratification E-Platform (DEMONSTRATE)\" (2025) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5895,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-4803-3632"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5000554104",
+      "name": "Georgios Kaissis",
+      "institution": "Imperial College London",
+      "country": "United Kingdom",
+      "email": null,
+      "research_focus": [
+        "Compromise",
+        "Computer science",
+        "Information privacy",
+        "Computer security",
+        "Bridge (graph theory)",
+        "Data Protection Act 1998",
+        "Medical imaging",
+        "Intellectual property"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Beyond Benchmarks: Dynamic, Automatic And Systematic Red-Teaming Agents For Trustworthy Medical Language Models",
+            "year": 2025,
+            "url": "http://arxiv.org/abs/2508.00923",
+            "venue": "arXiv (Cornell University)",
+            "citation_count": 2
+          },
+          {
+            "title": "Differentially Private Active Learning: Balancing Effective Data Selection and Privacy",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/satml64287.2025.00053",
+            "venue": "",
+            "citation_count": 1
+          },
+          {
+            "title": "Cross-Domain and Cross-Dimension Learning for Image-to-Graph Transformers",
+            "year": 2025,
+            "url": "https://doi.org/10.1109/wacv61041.2025.00017",
+            "venue": "",
+            "citation_count": 1
+          },
+          {
+            "title": "Lungevaty: A Scalable, Open-Source Transformer-Based Deep Learning Model for Lung Cancer Risk Prediction in LDCT Screening",
+            "year": 2026,
+            "url": "https://doi.org/10.1109/isbi61048.2026.11515342",
+            "venue": "",
+            "citation_count": 0
+          },
+          {
+            "title": "Beyond Benchmarks: Dynamic, Automatic And Systematic Red-Teaming Agents For Trustworthy Medical Language Models",
+            "year": 2026,
+            "url": "https://doi.org/10.21203/rs.3.rs-7237079/v1",
+            "venue": "Research Square",
+            "citation_count": 0
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Georgios Kaissis's work at Imperial College London aligns with Priya Sharma's interests in Compromise, Computer science, Information privacy. Their research focuses on Compromise, Computer science, Information privacy. Recent publications such as \"Unintended Memorization of Sensitive Information in Fine-Tuned Language Models\" (2026) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5863,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 13,
+      "total_citations": 1865,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0001-8382-8062"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5038969629",
+      "name": "Matthew P. Lungren",
+      "institution": "Intel (United States)",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Health records",
+        "Systematic review",
+        "Electronic health record",
+        "Deep learning",
+        "Medical record",
+        "Medical physics",
+        "Medicine",
+        "MEDLINE"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "A Multimodal Biomedical Foundation Model Trained from Fifteen Million Image–Text Pairs",
+            "year": 2024,
+            "url": "https://doi.org/10.1056/aioa2400640",
+            "venue": "NEJM AI",
+            "citation_count": 174
+          },
+          {
+            "title": "Exploring scalable medical image encoders beyond text supervision",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s42256-024-00965-w",
+            "venue": "Nature Machine Intelligence",
+            "citation_count": 52
+          },
+          {
+            "title": "RadEdit: Stress-Testing Biomedical Vision Models via Diffusion Image Editing",
+            "year": 2024,
+            "url": "https://doi.org/10.1007/978-3-031-73254-6_21",
+            "venue": "Lecture notes in computer science",
+            "citation_count": 14
+          },
+          {
+            "title": "Developing a Research Center for Artificial Intelligence in Medicine",
+            "year": 2024,
+            "url": "https://doi.org/10.1016/j.mcpdig.2024.07.005",
+            "venue": "Mayo Clinic Proceedings Digital Health",
+            "citation_count": 12
+          },
+          {
+            "title": "Multimodal Foundation Models for Medical Imaging - A Systematic Review and Implementation Guidelines",
+            "year": 2024,
+            "url": "https://doi.org/10.1101/2024.10.23.24316003",
+            "venue": "medRxiv",
+            "citation_count": 11
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Matthew P. Lungren's work at Intel (United States) aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records. Their research focuses on Health records, Systematic review, Electronic health record. Recent publications such as \"Exploring the Future of AI in Clinical Collaboration: A Study on Tumor Board Case Preparation\" (2026) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5829,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 8,
+      "total_citations": 790,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-8591-5861"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5103133745",
+      "name": "Xi Yang",
+      "institution": "University of Florida Health",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Generative large language models are all-purpose text analytics engines: text-to-text learning is all your need",
+            "year": 2024,
+            "url": "https://doi.org/10.1093/jamia/ocae078",
+            "venue": "Journal of the American Medical Informatics Association",
+            "citation_count": 26
+          },
+          {
+            "title": "Triptolide induces hepatotoxicity by promoting ferroptosis through Nrf2 degradation",
+            "year": 2024,
+            "url": "https://doi.org/10.1007/s10565-024-09930-0",
+            "venue": "Cell Biology and Toxicology",
+            "citation_count": 22
+          },
+          {
+            "title": "Extracting Pulmonary Nodules and Nodule Characteristics from Radiology Reports of Lung Cancer Screening Patients Using Transformer Models",
+            "year": 2024,
+            "url": "https://doi.org/10.1007/s41666-024-00166-5",
+            "venue": "Journal of Healthcare Informatics Research",
+            "citation_count": 10
+          },
+          {
+            "title": "The role of vitamin K and its antagonist in the process of ferroptosis-damaged RPE-mediated CNV",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41419-025-07497-0",
+            "venue": "Cell Death and Disease",
+            "citation_count": 6
+          },
+          {
+            "title": "A quantum-like zero-shot approach for sentiment analysis in finance",
+            "year": 2024,
+            "url": "https://doi.org/10.1007/s10844-024-00912-6",
+            "venue": "Journal of Intelligent Information Systems",
+            "citation_count": 5
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Xi Yang's work at University of Florida Health aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"Generative large language models are all-purpose text analytics engines: text-to-text learning is all your need\" (2024) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5775,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0003-2981-3972"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5026803588",
+      "name": "Elizabeth Shenkman",
+      "institution": "University of Florida",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Epidemiology, trajectories and outcomes of acute kidney injury among hospitalized patients: a large retrospective multicenter cohort study",
+            "year": 2025,
+            "url": "https://doi.org/10.1007/s40620-025-02234-4",
+            "venue": "Journal of Nephrology",
+            "citation_count": 7
+          },
+          {
+            "title": "AI in Hypertensive Disorders of Pregnancy: Review",
+            "year": 2025,
+            "url": "https://doi.org/10.1093/ajh/hpaf052",
+            "venue": "American Journal of Hypertension",
+            "citation_count": 5
+          },
+          {
+            "title": "PCORnet®: An Infrastructure Supporting Innovation in Clinical Study Design",
+            "year": 2026,
+            "url": "https://doi.org/10.1097/mlr.0000000000002245",
+            "venue": "Medical Care",
+            "citation_count": 2
+          },
+          {
+            "title": "Cancer beliefs, risk perceptions, and health protective behaviors among people living with diabetes in the United States: Results from the Health Information National Trends Survey",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.pmedr.2025.103206",
+            "venue": "Preventive Medicine Reports",
+            "citation_count": 1
+          },
+          {
+            "title": "Effect of Mechanically Activated Calcium Channels on Passive Stiffness and Contraction Amplitude of Slow Muscle",
+            "year": 2025,
+            "url": "https://doi.org/10.1134/s0022093025010089",
+            "venue": "Journal of Evolutionary Biochemistry and Physiology",
+            "citation_count": 1
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Elizabeth Shenkman's work at University of Florida aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"PCORnet®: An Infrastructure Supporting Innovation in Clinical Study Design\" (2026) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5739,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0003-4903-1804"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5010253402",
+      "name": "Yonghui Wu",
+      "institution": "University of Florida Health",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Computer science",
+        "Artificial intelligence",
+        "Natural language processing",
+        "Relationship extraction",
+        "Domain (mathematical analysis)",
+        "Language model",
+        "Inference",
+        "F1 score"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Douchi-derived Bacillus subtilis modulates gut microbiota and bile acid metabolism to alleviate metformin-induced diarrhea in type 2 diabetes mellitus",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.fbio.2025.107207",
+            "venue": "Food Bioscience",
+            "citation_count": 5
+          },
+          {
+            "title": "Scaling up biomedical vision-language models: Fine-tuning, instruction tuning, and multi-modal learning",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.jbi.2025.104946",
+            "venue": "Journal of Biomedical Informatics",
+            "citation_count": 4
+          },
+          {
+            "title": "Protocol for a Single-Arm Pilot Clinical Trial: Developing and Evaluating a Machine Learning Opioid Prediction &amp; Risk-Stratification E-Platform (DEMONSTRATE)",
+            "year": 2025,
+            "url": "https://doi.org/10.3390/jcm14238522",
+            "venue": "Journal of Clinical Medicine",
+            "citation_count": 1
+          },
+          {
+            "title": "Multi-scale target-aware representation learning for fundus image enhancement",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.neunet.2025.108273",
+            "venue": "Neural Networks",
+            "citation_count": 1
+          },
+          {
+            "title": "Determining Thyroid Biopsy Appropriateness: A Retrospective Study Integrating Clinical Context and Ultrasound Features",
+            "year": 2025,
+            "url": "https://doi.org/10.1210/clinem/dgaf577",
+            "venue": "The Journal of Clinical Endocrinology & Metabolism",
+            "citation_count": 1
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Yonghui Wu's work at University of Florida Health aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records, Large Language Models for Clinical Applications, Low-Resource Clinical Natural Language Processing. Their research focuses on Computer science, Artificial intelligence, Natural language processing. Recent publications such as \"A Study of Large Language Models for Patient Information Extraction: Model Architecture, Fine-Tuning Strategy, and Multi-task Instruction Tuning\" (2025) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.567,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 9,
+      "total_citations": 816,
+      "most_recent_paper_year": 2025,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-6780-6135"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5054928970",
+      "name": "Anthony Gordon",
+      "institution": "Imperial College Healthcare NHS Trust",
+      "country": "United Kingdom",
+      "email": null,
+      "research_focus": [
+        "Artificial intelligence",
+        "Medicine",
+        "MEDLINE",
+        "Deep learning",
+        "Machine learning",
+        "Systematic review",
+        "Convolutional neural network",
+        "Medical physics"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Dexmedetomidine- or Clonidine-Based Sedation Compared With Propofol in Critically Ill Patients",
+            "year": 2025,
+            "url": "https://doi.org/10.1001/jama.2025.7200",
+            "venue": "JAMA",
+            "citation_count": 38
+          },
+          {
+            "title": "Platform Trials to Assess Therapeutics in Patients Hospitalized With Influenza",
+            "year": 2025,
+            "url": "https://doi.org/10.1093/infdis/jiaf276",
+            "venue": "The Journal of Infectious Diseases",
+            "citation_count": 13
+          },
+          {
+            "title": "Bedside identification of subphenotypes in acute respiratory failure (PHIND): a multicentre, observational cohort study",
+            "year": 2026,
+            "url": "https://doi.org/10.1016/s2213-2600(26)00040-8",
+            "venue": "The Lancet Respiratory Medicine",
+            "citation_count": 3
+          },
+          {
+            "title": "Acute SARS-CoV-2 infection",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41572-025-00662-x",
+            "venue": "Nature Reviews Disease Primers",
+            "citation_count": 2
+          },
+          {
+            "title": "Ivermectin for Critically and Noncritically Ill Hospitalized Patients With COVID-19: Randomized, Embedded, Multifactorial Adaptive Platform Trial for Community-Acquired Pneumonia (REMAP-CAP)",
+            "year": 2026,
+            "url": "https://doi.org/10.1097/ccm.0000000000007134",
+            "venue": "Critical Care Medicine",
+            "citation_count": 1
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Anthony Gordon's work at Imperial College Healthcare NHS Trust aligns with Priya Sharma's interests in Artificial intelligence, Medicine, MEDLINE. Their research focuses on Artificial intelligence, Medicine, MEDLINE. Recent publications such as \"Public perceptions of participation in trials in the intensive care unit: an ERS Clinical Research Collaboration international cross-sectional survey across 13 countries\" (2025) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5635,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 13,
+      "total_citations": 1762,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-0419-547X"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5022225777",
+      "name": "Shih-Cheng Huang",
+      "institution": "Intel (United States)",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Health records",
+        "Systematic review",
+        "Electronic health record",
+        "Deep learning",
+        "Medical record",
+        "Medical physics",
+        "Medicine",
+        "MEDLINE"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Self-supervised learning for medical image classification: a systematic review and implementation guidelines",
+            "year": 2023,
+            "url": "https://doi.org/10.1038/s41746-023-00811-0",
+            "venue": "npj Digital Medicine",
+            "citation_count": 407
+          },
+          {
+            "title": "Label-Efficient Self-Supervised Federated Learning for Tackling Data Heterogeneity in Medical Imaging",
+            "year": 2023,
+            "url": "https://doi.org/10.1109/tmi.2022.3233574",
+            "venue": "IEEE Transactions on Medical Imaging",
+            "citation_count": 162
+          },
+          {
+            "title": "A clinically accessible small multimodal radiology model and evaluation metric for chest X-ray findings",
+            "year": 2025,
+            "url": "https://doi.org/10.1038/s41467-025-58344-x",
+            "venue": "Nature Communications",
+            "citation_count": 28
+          },
+          {
+            "title": "OA10.03 Tarlatamab Sustained Clinical Benefit and Safety in Previously Treated SCLC: DeLLphi-301 Phase 2 Extended Follow-up",
+            "year": 2024,
+            "url": "https://doi.org/10.1016/j.jtho.2024.09.057",
+            "venue": "Journal of Thoracic Oncology",
+            "citation_count": 20
+          },
+          {
+            "title": "Multimodal Foundation Models for Medical Imaging - A Systematic Review and Implementation Guidelines",
+            "year": 2024,
+            "url": "https://doi.org/10.1101/2024.10.23.24316003",
+            "venue": "medRxiv",
+            "citation_count": 11
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Shih-Cheng Huang's work at Intel (United States) aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records. Their research focuses on Health records, Systematic review, Electronic health record. Recent publications such as \"Author Correction: Prostate cancer therapy personalization via multi-modal deep learning on randomized phase III clinical trials\" (2023) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5501,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 8,
+      "total_citations": 790,
+      "most_recent_paper_year": 2025,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0001-9882-833X"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5024679224",
+      "name": "Imon Banerjee",
+      "institution": "Intel (United States)",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Health records",
+        "Systematic review",
+        "Electronic health record",
+        "Deep learning",
+        "Medical record",
+        "Medical physics",
+        "Medicine",
+        "MEDLINE"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Artificial intelligence–based quantification of breast arterial calcifications to predict cardiovascular morbidity and mortality",
+            "year": 2026,
+            "url": "https://doi.org/10.1093/eurheartj/ehag128",
+            "venue": "European Heart Journal",
+            "citation_count": 5
+          },
+          {
+            "title": "CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.media.2025.103739",
+            "venue": "Medical Image Analysis",
+            "citation_count": 5
+          },
+          {
+            "title": "Artificial Intelligence Chest X-Ray Opportunistic Screening Model for Coronary Artery Calcium Deposition: A Multi-Objective Model With Multimodal Data Fusion",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.mcpdig.2025.100300",
+            "venue": "Mayo Clinic Proceedings Digital Health",
+            "citation_count": 3
+          },
+          {
+            "title": "Out-of-the-Box Large Language Models for Detecting and Classifying Critical Findings in Radiology Reports Using Various Prompt Strategies",
+            "year": 2025,
+            "url": "https://doi.org/10.2214/ajr.25.33469",
+            "venue": "American Journal of Roentgenology",
+            "citation_count": 3
+          },
+          {
+            "title": "Artificial Intelligence for Identification of Patients with Increased Risk of Severe Cancer Therapy-Related Cardiac Dysfunction Following Anthracycline Therapy",
+            "year": 2025,
+            "url": "https://doi.org/10.1016/j.amjmed.2025.06.035",
+            "venue": "The American Journal of Medicine",
+            "citation_count": 3
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Imon Banerjee's work at Intel (United States) aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records. Their research focuses on Health records, Systematic review, Electronic health record. Recent publications such as \"26-A-17196-ACC OPPORTUNISTIC SCREENING FOR ADVERSE CARDIOVASCULAR EVENTS USING ROUTINE CLINICAL CHEST COMPUTED TOMOGRAPHY\" (2026) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5264,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 8,
+      "total_citations": 790,
+      "most_recent_paper_year": 2026,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-3327-8004"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5078445265",
+      "name": "Philippe Burlina",
+      "institution": "Johns Hopkins University",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Macular degeneration",
+        "Artificial intelligence",
+        "Glaucoma",
+        "Medicine",
+        "Diabetic retinopathy",
+        "Deep learning",
+        "Computer science",
+        "Clinical trial"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Detecting Anomalies in Retinal Diseases Using Generative, Discriminative, and Self-supervised Deep Learning",
+            "year": 2021,
+            "url": "https://doi.org/10.1001/jamaophthalmol.2021.5557",
+            "venue": "JAMA Ophthalmology",
+            "citation_count": 37
+          },
+          {
+            "title": "<scp>PLeak:</scp> Prompt Leaking Attacks against Large Language Model Applications",
+            "year": 2024,
+            "url": "https://doi.org/10.1145/3658644.3670370",
+            "venue": "",
+            "citation_count": 35
+          },
+          {
+            "title": "Accuracy of Artificial Intelligence in Estimating Best-Corrected Visual Acuity From Fundus Photographs in Eyes With Diabetic Macular Edema",
+            "year": 2023,
+            "url": "https://doi.org/10.1001/jamaophthalmol.2023.2271",
+            "venue": "JAMA Ophthalmology",
+            "citation_count": 20
+          },
+          {
+            "title": "Addressing Heterogeneity in Federated Learning via Distributional Transformation",
+            "year": 2022,
+            "url": "https://doi.org/10.1007/978-3-031-19839-7_11",
+            "venue": "Lecture notes in computer science",
+            "citation_count": 11
+          },
+          {
+            "title": "Fortifying Federated Learning against Membership Inference Attacks via Client-level Input Perturbation",
+            "year": 2023,
+            "url": "https://doi.org/10.1109/dsn58367.2023.00037",
+            "venue": "",
+            "citation_count": 10
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Philippe Burlina's work at Johns Hopkins University aligns with Priya Sharma's interests in Macular degeneration, Artificial intelligence, Glaucoma. Their research focuses on Macular degeneration, Artificial intelligence, Glaucoma. Recent publications such as \"<scp>PLeak:</scp> Prompt Leaking Attacks against Large Language Model Applications\" (2024) demonstrate active research in this area.",
+      "tier": "target",
+      "score": 0.5128,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 7,
+      "total_citations": 509,
+      "most_recent_paper_year": 2025,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0002-6353-0880"
+    },
+    {
+      "supervisor_id": "https://openalex.org/A5072349706",
+      "name": "Saeed Seyyedi",
+      "institution": "Intel (United States)",
+      "country": "United States",
+      "email": null,
+      "research_focus": [
+        "Health records",
+        "Systematic review",
+        "Electronic health record",
+        "Deep learning",
+        "Medical record",
+        "Medical physics",
+        "Medicine",
+        "MEDLINE"
+      ],
+      "evidence": {
+        "papers": [
+          {
+            "title": "Fusion of medical imaging and electronic health records using deep learning: a systematic review and implementation guidelines",
+            "year": 2020,
+            "url": "https://doi.org/10.1038/s41746-020-00341-z",
+            "venue": "npj Digital Medicine",
+            "citation_count": 790
+          },
+          {
+            "title": "Automated coronary calcium scoring using deep learning with multicenter external validation",
+            "year": 2021,
+            "url": "https://doi.org/10.1038/s41746-021-00460-1",
+            "venue": "npj Digital Medicine",
+            "citation_count": 172
+          },
+          {
+            "title": "Stockwell transform and semi-supervised feature selection from deep features for classification of BCI signals",
+            "year": 2022,
+            "url": "https://doi.org/10.1038/s41598-022-15813-3",
+            "venue": "Scientific Reports",
+            "citation_count": 31
+          },
+          {
+            "title": "Six dimensional X-ray Tensor Tomography with a compact laboratory setup",
+            "year": 2016,
+            "url": "https://doi.org/10.1063/1.4963649",
+            "venue": "Applied Physics Letters",
+            "citation_count": 15
+          },
+          {
+            "title": "Low-Dose CT Perfusion of the Liver Using Reconstruction of Difference",
+            "year": 2018,
+            "url": "https://doi.org/10.1109/trpms.2018.2812360",
+            "venue": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+            "citation_count": 11
+          }
+        ],
+        "grants": []
+      },
+      "why_match": "Prof. Saeed Seyyedi's work at Intel (United States) aligns with Priya Sharma's interests in Clinical Information Extraction from Electronic Health Records. Their research focuses on Health records, Systematic review, Electronic health record. Recent publications such as \"Fusion of medical imaging and electronic health records using deep learning: a systematic review and implementation guidelines\" (2020) demonstrate active research in this area.",
+      "tier": "safety",
+      "score": 0.482,
+      "programs": [],
+      "faculty_confidence": 0.6,
+      "h_index": 8,
+      "total_citations": 790,
+      "most_recent_paper_year": 2022,
+      "homepage_url": null,
+      "orcid": "https://orcid.org/0000-0001-6811-0378"
+    }
+  ]
+}
